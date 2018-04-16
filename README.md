@@ -14,5 +14,6 @@ Com isso surgiu a ideia de criar esse repositório para pudermos compartilhar di
 
 ## Países e Cidades
 
-- Portugal
-  - Braga
+- [Portugal]
+
+[Portugal]:<https://github.com/nicolastakashi/dicas-para-imigrantes/blob/master/portugal/README.md/?target=_blank>
